@@ -34,10 +34,13 @@ I enjoy tinkering with electronics, hardware hacking, and software in general.
   - **[AmySurf](https://github.com/lchabra/AmySurf)**: Built and hosted Web App.
   - **[Bitcoin node](https://github.com/bitcoin/bitcoin)**: Set up and managed a Bitcoin node.
   - **[LND node](https://github.com/lightningnetwork/lnd)**: Configured and maintained an LND node.
+  - **[Nbxplorer](https://hub.docker.com/r/nicolasdorier/nbxplorer/)**: Minimalist UTXO tracker.
   - **[Tor](https://www.torproject.org/)**: Integrated Tor.
   - **[Nostr](https://github.com/fiatjaf/nostr)**: Deployed Nostr for decentralized social networking on **[AmySurf](https://github.com/lchabra/AmySurf)** and **[EatWhat](https://github.com/lchabra/EatWhat)**.
   - **[Grafana](https://grafana.com/), [Prometheus](https://prometheus.io/)**: Monitoring system metrics.
   - **[Traefik](https://traefik.io/)**: Implemented Traefik as a reverse proxy and load balancer for managing microservices.
+  - **[Photoprism](https://github.com/photoprism/photoprism)**: Self-hosted photo management.
+  - **...and more**: Continuously exploring and integrating new technologies.
 
 - **Git**: Version control for my projects.
 - **Udemy**: Completed [course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) on React, Hooks, Redux, React Router, Next.js.
