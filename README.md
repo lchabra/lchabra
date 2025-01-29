@@ -17,6 +17,7 @@ I enjoy tinkering with electronics, hardware hacking, and software in general.
 [<img src="assets/nodejs.svg" alt="nodejs" width="30" height="30">](https://nodejs.org)
 [<img src="assets/linux.svg" alt="linux" width="30" height="30">](https://www.linux.org/)
 [<img src="assets/docker.svg" alt="docker" width="30" height="30">](https://www.docker.com/)
+[<img src="assets/traefik.png" alt="traefik" width="30" height="30">](https://github.com/traefik/traefik)
 [<img src="assets/git.svg" alt="git" width="30" height="30">](https://git-scm.com/)
 [<img src="assets/grafana.svg" alt="grafana" width="30" height="30">](https://grafana.com)
 [<img src="assets/udemy.svg" alt="udemy" width="30" height="30">](https://www.udemy.com/)
@@ -24,7 +25,6 @@ I enjoy tinkering with electronics, hardware hacking, and software in general.
 [<img src="assets/btc.svg" alt="bitcoin" width="30" height="30">](https://bitcoin.org)
 [<img src="assets/lnd.png" alt="lnd" width="40" height="30">](https://github.com/lightningnetwork/lnd)
 [<img src="assets/nostr.jpg" alt="nostr" width="30" height="30">](https://github.com/nostr-protocol/nostr)
-[<img src="assets/traefik.png" alt="traefik" width="30" height="30">](https://github.com/traefik/traefik)
 
 - **TypeScript / React**: My primary focus, full-stack web app development with TypeScript and React.
 
