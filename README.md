@@ -20,11 +20,15 @@ I enjoy tinkering with electronics, hardware hacking, and software in general.
 [<img src="assets/traefik.png" alt="traefik" width="30" height="30">](https://github.com/traefik/traefik)
 [<img src="assets/git.svg" alt="git" width="30" height="30">](https://git-scm.com/)
 [<img src="assets/grafana.svg" alt="grafana" width="30" height="30">](https://grafana.com)
+[<img src="assets/prometheus.svg" alt="prometheus" width="30" height="30">](https://prometheus.io/)
 [<img src="assets/udemy.svg" alt="udemy" width="30" height="30">](https://www.udemy.com/)
 [<img src="assets/postman.svg" alt="postman" width="30" height="30">](https://postman.com)
+[<img src="assets/nostr.jpg" alt="nostr" width="30" height="30">](https://github.com/nostr-protocol/nostr)
+[<img src="assets/tor.svg" alt="tor" width="30" height="30">](https://www.torproject.org/)
 [<img src="assets/btc.svg" alt="bitcoin" width="30" height="30">](https://bitcoin.org)
 [<img src="assets/lnd.png" alt="lnd" width="40" height="30">](https://github.com/lightningnetwork/lnd)
-[<img src="assets/nostr.jpg" alt="nostr" width="30" height="30">](https://github.com/nostr-protocol/nostr)
+[<img src="assets/nbxplorer.png" alt="nbxplorer" width="30" height="30">](https://hub.docker.com/r/nicolasdorier/nbxplorer)
+[<img src="assets/photoprism.svg" alt="photoprism" width="30" height="30">](https://photoprism.app)
 
 - **TypeScript / React**: My primary focus, full-stack web app development with TypeScript and React.
 
