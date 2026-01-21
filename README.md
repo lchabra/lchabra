@@ -27,7 +27,7 @@ Driven by a passion for technology, I embrace AI to enhance my projects, ranging
 [<img src="assets/btc.svg" alt="bitcoin" width="30" height="30">](https://bitcoin.org)
 [<img src="assets/lnd.png" alt="lnd" width="40" height="30">](https://github.com/lightningnetwork/lnd)
 
-- **TypeScript / React / C#**: Full-stack web app development. Learning projects: [AmySurf](https://github.com/lchabra/AmySurf) & [EatWhat](https://github.com/lchabra/EatWhat).
+- **TypeScript / React / C#**: Full-stack web app development. Learning projects: [AmySurf](https://github.com/lchabra/AmySurf).
 - **Docker / Linux**: Experience using it to containerize a stack deployed on a Linux SBC, including:
 
   - **[AmySurf](https://github.com/lchabra/AmySurf)**: Built and hosted Web App.
@@ -35,7 +35,7 @@ Driven by a passion for technology, I embrace AI to enhance my projects, ranging
   - **[LND node](https://github.com/lightningnetwork/lnd)**: Configured and maintained an LND node.
   - **[Nbxplorer](https://hub.docker.com/r/nicolasdorier/nbxplorer/)**: Minimalist UTXO tracker.
   - **[Tor](https://www.torproject.org/)**: Integrated Tor.
-  - **[Nostr](https://github.com/fiatjaf/nostr)**: Deployed Nostr for decentralized social networking on **[AmySurf](https://github.com/lchabra/AmySurf)** and **[EatWhat](https://github.com/lchabra/EatWhat)**.
+  - **[Nostr](https://github.com/fiatjaf/nostr)**: Deployed Nostr for decentralized social networking on **[AmySurf](https://github.com/lchabra/AmySurf)**.
   - **[Grafana](https://grafana.com/), [Prometheus](https://prometheus.io/)**: Monitoring system metrics.
   - **[Traefik](https://traefik.io/)**: Implemented Traefik as a reverse proxy and load balancer for managing microservices.
   - **[Photoprism](https://github.com/photoprism/photoprism)**: Self-hosted photo management.
@@ -48,7 +48,7 @@ Driven by a passion for technology, I embrace AI to enhance my projects, ranging
 
 ## 🚀 Projects
 
-- **[AmySurf](https://github.com/lchabra/AmySurf)** & **[EatWhat](https://github.com/lchabra/EatWhat)**: Personal projects for learning full-stack web development (TypeScript, React, C#).
+- **[AmySurf](https://github.com/lchabra/AmySurf)**: Personal projects for learning full-stack web development (TypeScript, React, C#).
 - **[Other Projects](https://github.com/lchabra?tab=repositories)**: Mainly working on my private stack.  
   Check out my repositories for additional projects showcasing my skills in React, TypeScript, and beyond.
 
